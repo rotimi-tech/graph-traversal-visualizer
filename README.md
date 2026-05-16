@@ -20,17 +20,6 @@ This project implements graph traversal algorithms using Java and demonstrates h
 - Debugging
 - Data Structures
 
-## Screenshots
-
-### Program Output
-![Program](screenshots/program-running.png)
-
-### BFS
-![BFS](screenshots/bfs-output.png)
-
-### DFS
-![DFS](screenshots/dfs-output.png)
-
 ## Notes
 Additional explanations can be found in:
 notes/analysis-notes.md
